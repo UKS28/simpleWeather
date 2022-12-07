@@ -1,0 +1,17 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+
+  
+.banner {
+    color:#404258;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(pexels-photo-1992045.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
